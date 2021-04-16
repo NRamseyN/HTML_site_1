@@ -1,0 +1,13 @@
+{
+    "css.completion.completePropertyWithSemicolon": false,
+    "files.autoSave": "afterDelay",
+    "editor.detectIndentation": true,
+    "editor.autoIndent": "full",
+    "editor.formatOnSaveMode": "modifications",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": true,
+    "diffEditor.wordWrap": "on",
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "html.format.templating": true
+}
